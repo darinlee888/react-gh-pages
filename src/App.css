@@ -17,14 +17,18 @@ button {
   margin-right: 100px;
   margin-top: 25px;
   padding: 25px;
-  font-size: xx-large;
+  font-size: x-large;
   background-color: #61dafb;
   color: #ffffff;
+  border-radius: 25px;
 }
 
 #contactInfo {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 #resume {
