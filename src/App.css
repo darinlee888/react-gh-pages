@@ -53,6 +53,11 @@ button {
   text-indent: 50px;
 }
 
+.description {
+  text-indent: 0px;
+  margin-left: 30px;
+}
+
 @media screen and (max-width: 450px) {
   #contactInfo {
     margin-left: 50px;
