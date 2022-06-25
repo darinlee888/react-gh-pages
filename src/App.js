@@ -47,6 +47,35 @@ function App() {
     <div className="info">
       <a className="title" rel="noreferrer" href="https://www.ucdavis.edu/" target="_blank">University of California, Davis</a>
       <span className="title"> (from September 2018 to June 2022)</span>
+      <div className="subtitle">Degree: Bachelor's of Science (B.S.)</div>
+      <div className="subtitle">Major: Computer Science and Engineering (CSE)</div>
+      <div className="subtitle">GPA: 3.8</div>
+      <div className="subtitle">UC Davis College of Engineering Dean’s Honors List:</div>
+      <ul className="description">
+        <li>Winter Quarter 2019</li>
+        <li>Spring Quarter 2019</li>
+        <li>Fall Quarter 2019</li>
+        <li>Spring Quarter 2020</li>
+        <li>Fall Quarter 2020</li>
+        <li>Fall Quarter 2021</li>
+      </ul>
+      <div className="subtitle">Coursework:</div>
+      <ul className="description">
+        <li>ECS 36A: Programming (Python, Linux, Git, Rust)</li>
+        <li>ECS 36B: Object-Oriented Programming (C, C++, CMake, Google Test)</li>
+        <li>ECS 50: Machine Dependent Programming (Make)</li>
+        <li>ECS 36C: Data Structures</li>
+        <li>ECS 154A: Computer Architecture</li>
+        <li>ECS 154B: Computer Architecture (Scala, Singularity)</li>
+        <li>ECS 132: Probability and Statistical Modeling for CS (R)</li>
+        <li>ECS 140A: Programming Languages (Go)</li>
+        <li>ECS 152A: Computer Networks</li>
+        <li>ECS 162: Web Programming (HTML, CSS, JavaScript, Node.js, REST APIs, SQLite, React.js, D3.js)</li>
+        <li>ECS 122A: Algorithm Design and Analysis</li>
+        <li>ECS 150: Operating Systems (Docker)</li>
+        <li>ECS 160: Software Engineering (Java, JUnit)</li>
+        <li>ECS 122B: Algorithm Design and Analysis</li>
+      </ul>
     </div>;
   }
 
@@ -58,12 +87,8 @@ function App() {
       <span className="title"> (from July 2021 to September 2021)</span>
       <div className="subtitle">Software Dev Engineer I Intern (Consumer Payments, Payments Security)</div>
       <ul className="description">
-        <li>
-          Wrote a user-friendly script to automate the dynamic configuration update process for technicians (Python)
-        </li>
-        <li>
-          Wrote integration tests for the team's development pipelines, speeding up the deployment process (Java, AWS)
-        </li>
+        <li>Wrote a user-friendly script to automate the dynamic configuration update process for technicians (Python)</li>
+        <li>Wrote integration tests for the team's development pipelines, speeding up the deployment process (Java, AWS)</li>
       </ul>
     </div>;
   }
@@ -76,6 +101,10 @@ function App() {
         ECS 193A/B: Senior Design Project
       </a>
       <span className="title"> (from January 2022 to June 2022)</span>
+      <ul className="description">
+        <li>Interactive website with data visualizations displaying the results of a survey conducted by our client</li>
+        <li>Technologies Used: HTML, CSS, JavaScript, React.js, D3.js</li>
+      </ul>
     </div>;
   }
 
