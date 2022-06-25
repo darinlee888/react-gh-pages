@@ -38,6 +38,73 @@ function App() {
         Cambridge International Preparatory School
       </a>
       <span className="title"> (from August 2014 to May 2018)</span>
+      <div className="subtitle">Coursework:</div>
+      <ul className="description">
+        <li>AP English Language and Composition (2016, 3)</li>
+        <li>AP European History (2016, 3)</li>
+        <li>AP Physics 1: Algebra-Based (2016, 4)</li>
+        <li>AP Chemistry (2017, 4)</li>
+        <li>AP Chinese Language and Culture (2017, 4)</li>
+        <li>AP United States History (2017, 3)</li>
+        <li>AP Calculus AB (2018, 5)</li>
+        <li>AP Calculus BC (2018, 5)</li>
+        <li>AP Computer Science A (2018, 5)</li>
+        <li>AP English Literature and Composition (2018, 3)</li>
+        <li>AP Environmental Science (2018, 4)</li>
+        <li>AP Macroeconomics (2018, 5)</li>
+        <li>AP Microeconomics (2018, 5)</li>
+        <li>AP Psychology (2018, 5)</li>
+        <li>AP Statistics (2018, 3)</li>
+      </ul>
+      <div className="subtitle">Extracurriculars:</div>
+      <ul className="description">
+        <li>Student Council:</li>
+        <ul>
+          <li>Grade Representative (2014-2016)</li>
+          <li>Chapel Coordinator (2016-2017)</li>
+          <li>Secretary (2017-2018)</li>
+        </ul>
+        <li>Athletics:</li>
+        <ul>
+          <li>Soccer (2015-2016)</li>
+          <li>Basketball (2014-2018)</li>
+        </ul>
+        <li>Mahjong Club (2015-2018)</li>
+        <li>Super Smash Bros. Club (2016-2018)</li>
+        <li>Theatre/Drama (Including Shooter, 2017)</li>
+        <li>Mock Trial (2017-2018)</li>
+      </ul>
+      <div className="subtitle">Awards and Affiliations:</div>
+      <ul className="description">
+        <li>
+          Departmental Awards (given to the student who best demonstrate passion, capability, and achievement in that discipline):
+        </li>
+        <ul>
+          <li>Religious Studies (2016)</li>
+          <li>Chemistry (2017)</li>
+          <li>Computer Science (2018)</li>
+          <li>Mathematics (2018)</li>
+        </ul>
+        <li>Advanced Placement:</li>
+        <ul>
+          <li>AP Scholar (2016) - scores of 3 or higher on three or more AP Exams</li>
+          <li>
+            AP Scholar With Distinction (2017) - an average score of at least 3.5 on all AP Exams taken, and scores of 3 or 
+            higher on five or more of these exams.
+          </li>
+          <li>
+            National AP Scholar (2018) - an average score of at least 4 on all AP Exams taken, and scores of 4 or higher on 
+            eight or more of these exams.
+          </li>
+        </ul>
+        <li>
+          Head's List (2018) - seniors with an overall grade point average of 4.00 or greater during their attendance at 
+          Cambridge International Preparatory School
+        </li>
+        <li>Founder's Award (2018) - the senior who best combines educational passion with Christian ideals</li>
+        <li>Valedictorian (2018)</li>
+        <li>National Honor Society (2018)</li>
+      </ul>
     </div>;
   }
 
